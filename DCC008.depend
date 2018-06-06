@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1476398832 source:/home/vitor/Área de Trabalho/DCC008/Bissecao.cpp
+	"Bissecao.h"
+	<cmath>
+	<math.h>
+	<fstream>
+	<iostream>
+
+1476311564 /home/vitor/Área de Trabalho/DCC008/Bissecao.h
+
+1476399882 source:/home/vitor/Área de Trabalho/DCC008/FalsaPosicao.cpp
+	"FalsaPosicao.h"
+	<cmath>
+	<math.h>
+	<iostream>
+	<fstream>
+	<iostream>
+	<limits.h>
+
+1476311615 /home/vitor/Área de Trabalho/DCC008/FalsaPosicao.h
+
+1476401587 source:/home/vitor/Área de Trabalho/DCC008/main.cpp
+	<iostream>
+	"NewtonRaphson.h"
+	"Bissecao.h"
+	"QuaseNewton.h"
+	"FalsaPosicao.h"
+	<cmath>
+	<math.h>
+
+1476318448 /home/vitor/Área de Trabalho/DCC008/NewtonRaphson.h
+	<stdlib.h>
+	<iostream>
+
+1476311584 /home/vitor/Área de Trabalho/DCC008/QuaseNewton.h
+
+1476403087 source:/home/vitor/Área de Trabalho/DCC008/NewtonRaphson.cpp
+	"NewtonRaphson.h"
+	<cmath>
+	<math.h>
+	<fstream>
+	<iostream>
+	<limits.h>
+
+1476401414 source:/home/vitor/Área de Trabalho/DCC008/QuaseNewton.cpp
+	"QuaseNewton.h"
+	<cmath>
+	<math.h>
+	<fstream>
+	<iostream>
+	<limits.h>
+
+1517585718 source:c:\users\vitor\onedrive\projetos-drive\dcc008\bissecao.cpp
+	"Bissecao.h"
+	<cmath>
+	<math.h>
+	<fstream>
+	<iostream>
+
+1517585718 c:\users\vitor\onedrive\projetos-drive\dcc008\bissecao.h
+
+1517585720 source:c:\users\vitor\onedrive\projetos-drive\dcc008\falsaposicao.cpp
+	"FalsaPosicao.h"
+	<cmath>
+	<math.h>
+	<iostream>
+	<fstream>
+	<iostream>
+	<limits.h>
+
+1517585718 c:\users\vitor\onedrive\projetos-drive\dcc008\falsaposicao.h
+
+1517585718 source:c:\users\vitor\onedrive\projetos-drive\dcc008\main.cpp
+	<iostream>
+	"NewtonRaphson.h"
+	"Bissecao.h"
+	"QuaseNewton.h"
+	"FalsaPosicao.h"
+	<cmath>
+	<math.h>
+
+1517585720 c:\users\vitor\onedrive\projetos-drive\dcc008\newtonraphson.h
+	<stdlib.h>
+	<iostream>
+
+1517585720 c:\users\vitor\onedrive\projetos-drive\dcc008\quasenewton.h
+
+1517585720 source:c:\users\vitor\onedrive\projetos-drive\dcc008\newtonraphson.cpp
+	"NewtonRaphson.h"
+	<cmath>
+	<math.h>
+	<fstream>
+	<iostream>
+	<limits.h>
+
+1517585720 source:c:\users\vitor\onedrive\projetos-drive\dcc008\quasenewton.cpp
+	"QuaseNewton.h"
+	<cmath>
+	<math.h>
+	<fstream>
+	<iostream>
+	<limits.h>
+
